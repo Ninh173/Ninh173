@@ -1,4 +1,5 @@
 Phát triển ứng dụng: $3,000 .
+
 •	Mô tả: Chi phí này bao gồm việc phát triển các tính năng chính của ứng dụng, bao gồm cả front-end và back-end, cũng như tích hợp API và cơ sở dữ liệu. Đối với ứng dụng có độ phức tạp trung bình
 Kiểm thử và triển khai: $2,000 .
 •	Mô tả: Bao gồm kiểm thử chức năng, hiệu năng, bảo mật, và tương thích trên nhiều thiết bị và nền tảng. Cũng bao gồm chi phí triển khai lên App Store và Google Play.
